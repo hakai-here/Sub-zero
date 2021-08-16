@@ -1,6 +1,5 @@
 # Sub-zero
-
-checking if a given username is avaliable in some websites 
+A bash script to check if a given username is avaliable in some websites 
 
 Syntax :
 ```markdown 
